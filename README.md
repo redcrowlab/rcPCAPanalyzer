@@ -4,6 +4,7 @@
 Red Crow Labs
 
 #######################################################################
+DESCRIPTION:
 
 rcPCAPanalyzer is PoC Code to analyze a PCAP file looking for basic anomalies. It performs the following actions:
 
