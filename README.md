@@ -4,6 +4,7 @@
 Red Crow Labs
 
 #######################################################################
+
 DESCRIPTION:
 
 rcPCAPanalyzer is PoC Code to analyze a PCAP file looking for basic anomalies. It performs the following actions:
@@ -22,6 +23,7 @@ rcPCAPanalyzer is PoC Code to analyze a PCAP file looking for basic anomalies. I
 
 
 =========================================================================
+
 INSTALL: 
 
 git clone https://github.com/redcrowlab/rcPCAPanalyzer.git
@@ -29,12 +31,14 @@ git clone https://github.com/redcrowlab/rcPCAPanalyzer.git
 
 
 =========================================================================
+
 USAGE: 
 
 python rcPCAPanalyzer [pcap file] [source IP]
 
 
 =========================================================================
+
 NOTE:
 
 This code is prone to false positives. 
